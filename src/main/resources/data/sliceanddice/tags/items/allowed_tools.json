@@ -5,6 +5,7 @@
       "id": "#farmersdelight:tools/knives",
       "required": false
     },
-    "#forge:tools/axes"
+    "#forge:tools/axes",
+    "#forge:tools/shears"
   ]
 }
